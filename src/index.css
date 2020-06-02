@@ -1,0 +1,16 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+body,
+html,
+#root {
+  height: 100%;
+  margin: 0;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#root {
+  background-image: url(./static/bg.jpg);
+}
